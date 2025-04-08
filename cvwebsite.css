@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body,html {
+    height: 100%;
+}
+
+.body {
+    background-image: url('media/background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.signature {
+    position: absolute;
+    top: 35rem;
+    right: 2rem;
+    font-size: 0.8rem;
+}
